@@ -1,4 +1,6 @@
-# go-todo-api#### Endpoints
+# go-todo-api
+
+#### Endpoints
 
 `"/todo/create"`
 payload: {Description: "todo description"}
